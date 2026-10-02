@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "Xzt VGA PLaygroudn"      # Project title
+  title:        "Xzt VGA PLayground"      # Project title
   author:       "Gabriel Valderrama"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "VGA Psycodelic project"      # One line description of what your project does
